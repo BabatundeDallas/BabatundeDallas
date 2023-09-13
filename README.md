@@ -5,14 +5,20 @@
 <a href="in/babatunde-dallas-98a4a3123" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="" height="40" width="40" /></a> 
 </p>
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Kubernetes as a platform: Data considerations and concerns](https://vzilla.co.uk/vzilla-blog/kubernetes-as-a-platform-data-considerations-and-concerns)
-- [Kubernetes as a Platform, much like Virtualisation](https://vzilla.co.uk/vzilla-blog/kubernetes-as-a-platform-much-like-virtualisation)
-- [Finally.. My first KubeCon](https://vzilla.co.uk/vzilla-blog/finally-my-first-kubecon)
-- [A year at the tap &lpar;firehose&rpar; end](https://vzilla.co.uk/vzilla-blog/a-year-at-the-tap-firehose-end)
-- [Kubernetes Demo Environment For Everyone](https://vzilla.co.uk/vzilla-blog/project_pace-kasten-k10-demo-environment-for-everyone)
-<!-- BLOG-POST-LIST:END -->
+
+## Languages and Tools
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
+<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
+<img align="left" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+ 
+ 
+
+
+
 
 # Videos
 <!-- VIDEO:START -->
@@ -51,3 +57,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Kubernetes as a platform: Data considerations and concerns](https://vzilla.co.uk/vzilla-blog/kubernetes-as-a-platform-data-considerations-and-concerns)
+- [Kubernetes as a Platform, much like Virtualisation](https://vzilla.co.uk/vzilla-blog/kubernetes-as-a-platform-much-like-virtualisation)
+<!-- BLOG-POST-LIST:END -->
