@@ -17,22 +17,7 @@
  
  
 
-
-
-
-# Videos
-<!-- VIDEO:START -->
-- [DevOps &amp; Agile - Day 4 #90DaysOfDevOps 4/90](https://www.youtube.com/watch?v=rX297GOL8Gc)
-- [DevOps Lifecycle - Application Focused - Day 3 #90DaysOfDevOps 3/90](https://www.youtube.com/watch?v=1XNnsS5LraY)
-- [Responsibilities of a DevOps Engineer - Day 2 #90DaysOfDevOps 2/90](https://www.youtube.com/watch?v=bDjgfwOb8WQ)
-- [Introduction - Day 1 #90DaysOfDevOps 1/90](https://www.youtube.com/watch?v=wkWDtlUqRo8)
-- [Intro video for #90DaysOfDevOps | What do you think?](https://www.youtube.com/watch?v=R3LgeQDOU-U)
-<!-- VIDEO:END -->
-
-
-
-
-[![MichaelCade's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelCade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![BabatundeDallas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DallasBaba&show_icons=true&theme=radical)](https://github.com/DallasBaba/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelCade&theme=dark)](https://git.io/streak-stats)
 
