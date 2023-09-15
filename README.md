@@ -22,27 +22,3 @@ My journey has led me to cultivate expertise across various technology stacks, i
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01c283d8b023c19ff5?viewMode=1)
 
 <!--
- -->
-
-<!--
-**MichaelCade/MichaelCade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# RMmark down styple
- BLOG-POST-LIST:START -->
- <!--
-- [Kubernetes as a platform: Data considerations and concerns](https://xxxxx)
--  
-<!-- BLOG-POST-LIST:END -->
-
-<!--
