@@ -18,8 +18,6 @@ My journey has led me to cultivate expertise across various technology stacks, i
  <img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
  
  ##
-
-[![BabatundeDallas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DallasBaba&show_icons=true&theme=radical)](https://github.com/DallasBaba/github-readme-stats)
  
 
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01c283d8b023c19ff5?viewMode=1)
