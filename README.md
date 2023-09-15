@@ -24,10 +24,7 @@ My journey has led me to cultivate expertise across various technology stacks, i
 
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01c283d8b023c19ff5?viewMode=1)
 
-![](https://komarev.com/ghpvc/?username=DallasBaba&color=lightgrey)
-![](https://visitor-badge.glitch.me/badge?page_id=DallasBaba.DallasBaba)
 
-![](https://komarev.com/ghpvc/?username=michaelcade&color=lightgrey)
 ![](https://visitor-badge.glitch.me/badge?page_id=MichaelCade.MichaelCade)
 
 ## Most Used Languages
@@ -47,9 +44,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# Blog posts
+
+# RMmark down styple
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes as a platform: Data considerations and concerns](https://vzilla.co.uk/vzilla-blog/kubernetes-as-a-platform-data-considerations-and-concerns)
-- [Kubernetes as a Platform, much like Virtualisation](https://vzilla.co.uk/vzilla-blog/kubernetes-as-a-platform-much-like-virtualisation)
+- [Kubernetes as a platform: Data considerations and concerns](https://xxxxx)
+-  
 <!-- BLOG-POST-LIST:END -->
+
+-->
