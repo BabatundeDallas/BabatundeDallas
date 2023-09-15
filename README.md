@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey folks! 👋
 
 My Interest in Information Technology drives my professionalism and mission of addressing business challenges by meticulously extracting actionable insights from complex datasets from different sources.
 
