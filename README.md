@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My Interest in Information Technology drives my professionalism, and my mission of addressing business challenges, by meticulously extracting actionable insights from complex datasets from different sources. 
+My Interest in Information Technology drives my professionalism and mission of addressing business challenges by meticulously extracting actionable insights from complex datasets from different sources.
 
-My journey has led me to cultivate expertise across various technology stacks, including JavaScript, SQL, R, Python, Power BI, Excel, and Tableau. 
+My journey has led me to cultivate expertise across various technology stacks, including JavaScript, SQL, R, Python, Power BI, Excel, and Tableau.
 </p>
 
 
@@ -20,13 +20,15 @@ My journey has led me to cultivate expertise across various technology stacks, i
  ##
  
 
-- 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01c283d8b023c19ff5?viewMode=1)
 
 
 
 <!-- Count Visitors
 ![](https://komarev.com/ghpvc/?username=DallasBaba&color=lightgrey)
 ![](https://visitor-badge.glitch.me/badge?page_id=DallasBaba.DallasBaba)
+
+- 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01c283d8b023c19ff5?viewMode=1)
+
 <!--
  -->
 
