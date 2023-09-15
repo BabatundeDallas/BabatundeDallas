@@ -27,7 +27,7 @@ My journey has led me to cultivate expertise across various technology stacks, i
 </p>
 
 <p align="center">
-<a href="https://github.com/rc-chuah"><img title="rc-chuah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-chuah&layout=compact&theme=dark"></a>
+<a href="https://github.com/DallasBaba"><img title="DallasBaba" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DallasBaba&layout=compact&theme=dark"></a>
 </p>
 
 
