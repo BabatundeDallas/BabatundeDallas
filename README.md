@@ -15,7 +15,7 @@ My journey has led me to cultivate expertise across various technology stacks, i
 <a href="https://www.tableau.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="docker" /></a>
 
 </p>
-##
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
