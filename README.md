@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 
 # RMmark down styple
  BLOG-POST-LIST:START -->
+ <!--
 - [Kubernetes as a platform: Data considerations and concerns](https://xxxxx)
 -  
 <!-- BLOG-POST-LIST:END -->
