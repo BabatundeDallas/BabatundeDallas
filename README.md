@@ -22,7 +22,7 @@ My journey has led me to cultivate expertise across various technology stacks, i
 [![BabatundeDallas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DallasBaba&show_icons=true&theme=radical)](https://github.com/DallasBaba/github-readme-stats)
  
 
-- 🔭 I’m currently working on [#90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+- 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01c283d8b023c19ff5?viewMode=1)
 
 ![](https://komarev.com/ghpvc/?username=michaelcade&color=lightgrey)
 ![](https://visitor-badge.glitch.me/badge?page_id=MichaelCade.MichaelCade)
