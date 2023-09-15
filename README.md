@@ -4,7 +4,9 @@
 <p align="left">
 <a href="in/babatunde-dallas-98a4a3123" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="" height="40" width="40" /></a> 
 
- ddd
+My Interest in Information Technology drives my professionalism, and my mission of addressing business challenges, by meticulously extracting actionable insights from complex datasets from different sources. 
+
+My journey has led me to cultivate expertise across various technology stacks, including JavaScript, SQL, R, Python, Power BI, Excel, and Tableau. 
 </p>
 
 
