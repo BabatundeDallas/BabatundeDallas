@@ -19,9 +19,7 @@ My journey has led me to cultivate expertise across various technology stacks, i
 
 </p>
 
-<p align="left" align="left">
-<a href="https://github.com/DallasBaba"><img title="DallasBaba" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DallasBaba&layout=compact&theme=dark"></a>
-</p>
+
 
 
 <!-- Count Visitors
@@ -30,4 +28,7 @@ My journey has led me to cultivate expertise across various technology stacks, i
 
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01c283d8b023c19ff5?viewMode=1)
 
+<p align="left" align="left">
+<a href="https://github.com/DallasBaba"><img title="DallasBaba" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DallasBaba&layout=compact&theme=dark"></a>
+</p>
 <!--
