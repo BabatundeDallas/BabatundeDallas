@@ -1,6 +1,6 @@
 ### Hey folks! 👋
 
-My name is Dallas. I will be using GitHub to host my repos. 
+I will be using GitHub to host my repos. 
 
 I'm passionate about developing Business Solutions. My Interest in Information Technology drives my professionalism and mission of addressing business challenges by meticulously extracting actionable insights from complex datasets from different sources.
 
