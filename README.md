@@ -23,7 +23,7 @@ My journey has led me to cultivate expertise across various technology stacks, i
 
 <a href="https://www.powerbi.com/" target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="docker" /></a>
 
-<a href="https://www.r-project.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;"/></a>
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
 </p>
 
 
