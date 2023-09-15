@@ -3,7 +3,7 @@ My name is Dallas. I will be using GitHub to host my repos.
 
 I'm passionate about Business Solutions Development. My Interest in Information Technology drives my professionalism and mission of addressing business challenges by meticulously extracting actionable insights from complex datasets from different sources.
 
-My journey has led me to cultivate expertise across various technology stacks, including programming languages and BI tools:
+My journey has led me to cultivate expertise across various technology stacks, including programming languages and business intelligence tools:
   </p>
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -13,13 +13,6 @@ My journey has led me to cultivate expertise across various technology stacks, i
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
 <img align="left" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
  <img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
- 
-
- 
- ##
- 
-
-
 
 
 <!-- Count Visitors
