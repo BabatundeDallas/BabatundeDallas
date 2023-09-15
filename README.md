@@ -25,10 +25,7 @@ My journey has led me to cultivate expertise across various technology stacks, i
 ![](https://komarev.com/ghpvc/?username=DallasBaba&color=lightgrey)
 ![](https://visitor-badge.glitch.me/badge?page_id=DallasBaba.DallasBaba)
 
-
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DallasBaba)](https://github.com/DallasBaba/github-readme-stats)
-
+ 
 
 <!--
 **MichaelCade/MichaelCade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
