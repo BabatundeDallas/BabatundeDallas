@@ -1,11 +1,12 @@
 ### Hey folks! 👋
-<img align="right" alt="Coding" width="290" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
 My name is Dallas. I will be using GitHub to host my repos. 
 
 I'm passionate about developing Business Solutions. My Interest in Information Technology drives my professionalism and mission of addressing business challenges by meticulously extracting actionable insights from complex datasets from different sources.
 
 My journey has led me to cultivate expertise across various technology stacks, including programming languages and business intelligence tools:
   </p>
+  <img align="right" alt="Coding" width="290" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
  
 <a href="https://www.java.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
