@@ -20,8 +20,7 @@ My journey has led me to cultivate expertise across various technology stacks, i
  ##
 
 [![BabatundeDallas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DallasBaba&show_icons=true&theme=radical)](https://github.com/DallasBaba/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelCade&theme=dark)](https://git.io/streak-stats)
+ 
 
 - 🔭 I’m currently working on [#90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
