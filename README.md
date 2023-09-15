@@ -17,7 +17,7 @@ My journey has led me to cultivate expertise across various technology stacks, i
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> </h3>
 
 <h3 align="left">Connect with me:</h3>
  
