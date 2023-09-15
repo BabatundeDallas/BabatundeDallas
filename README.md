@@ -15,11 +15,11 @@ My journey has led me to cultivate expertise across various technology stacks, i
 <a href="https://www.tableau.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="docker" /></a>
 
 </p>
-
+##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/peter-kimanzi-002299206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter kimanzi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/babatunde-dallas-98a4a3123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter kimanzi" height="30" width="40" /></a>
 </p>
 
 </p>
