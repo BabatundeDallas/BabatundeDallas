@@ -14,9 +14,18 @@ My journey has led me to cultivate expertise across various technology stacks, i
 <img align="left" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
  <img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
+# 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sloweyyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sloweyyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sloweyyy&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 <p align="center">
-  <img src="https://github.com/DallasBaba/DallasBaba/blob/main/github-user-contribution.svg" alt="snake"></center>
+  <img src="https://github.com/sloweyyy/sloweyyy/blob/main/github-user-contribution.svg" alt="snake"></center>
 </p>
+
 
 
 <!-- Count Visitors
