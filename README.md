@@ -22,10 +22,13 @@ My journey has led me to cultivate expertise across various technology stacks, i
 
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01c283d8b023c19ff5?viewMode=1)
 
+
+
+<!-- Count Visitors
 ![](https://komarev.com/ghpvc/?username=DallasBaba&color=lightgrey)
 ![](https://visitor-badge.glitch.me/badge?page_id=DallasBaba.DallasBaba)
-
- 
+<!--
+ -->
 
 <!--
 **MichaelCade/MichaelCade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
