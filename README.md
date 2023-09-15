@@ -19,10 +19,8 @@ My journey has led me to cultivate expertise across various technology stacks, i
  
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-
-###<h3 align="left"> </h3>
+<h3 align="left"> </h3>
 
 <h3 align="left">Connect with me:</h3> 
 
