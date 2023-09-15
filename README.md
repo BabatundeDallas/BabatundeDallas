@@ -1,4 +1,5 @@
 ### Hey folks! 👋
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 My name is Dallas. I will be using GitHub to host my repos. 
 
 I'm passionate about developing Business Solutions. My Interest in Information Technology drives my professionalism and mission of addressing business challenges by meticulously extracting actionable insights from complex datasets from different sources.
@@ -17,7 +18,7 @@ My journey has led me to cultivate expertise across various technology stacks, i
 
 
  
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
 
 
 <h3 align="left"> </h3>
