@@ -16,8 +16,6 @@ My journey has led me to cultivate expertise across various technology stacks, i
 <a href="https://www.powerbi.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="docker" /></a>
 
 
-<h3 align="left"> .</h3>
-
 <h3 align="left">Connect with me:</h3> 
 
 
