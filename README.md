@@ -16,8 +16,6 @@ My journey has led me to cultivate expertise across various technology stacks, i
 <a href="https://www.powerbi.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="docker" /></a>
 <a href="https://www.tableau.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="docker" /></a>
 
-  <img align="right" alt="Coding" width="290" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
- 
 
 <h3 align="left"> .</h3>
 
