@@ -2,9 +2,9 @@
 
 I will be using GitHub to host my repos. 
 
-I'm passionate about developing business solutions. My Interest in Information Technology drives my professionalism and mission of addressing business challenges by meticulously extracting actionable insights from complex datasets from different sources.
+I'm passionate about developing business solutions. My interest in Information System drives my professionalism and mission of addressing business challenges by extracting actionable insights from complex datasets from different sources and develop a staging pipeline.
 
-My journey has led me to cultivate expertise across various technology stacks, including programming languages and BI tools:
+My journey has led me to cultivate expertise across various technology stacks, including programming and BI tools:
   </p>
  
 <a href="https://www.java.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
