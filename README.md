@@ -2,7 +2,7 @@
 
 I will be using GitHub to host my repos. 
 
-I am enthusiastic about the seamless integration of business intelligence solutions through continuous testing, development, and deployment processes. My interest in Information Systems drives my professionalism in addressing business challenges with complex data from different sources in a suitable data analysis and reporting format.
+I am enthusiastic about the seamless integration of business intelligence solutions through continuous testing, and deployment processes. My interest in Information Systems drives my professionalism in addressing business challenges with complex data from different sources in a suitable data analysis and reporting format.
 
 My journey has led me to cultivate expertise across various technology stacks, including programming and BI tools:
   </p>
